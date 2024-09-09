@@ -15,12 +15,12 @@ class introduction
 public:
     std::string_view name() const
     {
-        return ...
+        return fkfijrgjirg
     }
 
     std::string_view surename() const
     {
-        return ...
+        return lskadfh
     }
 
     std::string fullname() const
